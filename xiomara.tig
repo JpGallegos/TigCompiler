@@ -1,0 +1,7 @@
+/* this is a multiline comment. It should be ignored.
+ *
+ * /* */
+ * Yas, ignored...
+ */
+
+var i: string := "If you suck then you suck \nelse you dont suck"
